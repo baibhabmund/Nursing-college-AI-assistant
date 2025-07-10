@@ -1,24 +1,27 @@
-#🏥 Nursing Admission Chatbot
-Nursing Admission Chatbot - An interactive AI-powered Gradio chatbot designed to assist students interested in B.Sc Nursing admissions. The chatbot guides users through the admission process, eligibility criteria, fees, hostel facilities, and more — all in both Hindi and English.
+# 🏥 Nursing Admission Chatbot
 
-#🚀 Features
-✅ Conversational flow using fuzzy intent detection (rapidfuzz)
-🧠 Intelligent state-based responses
-💬 Bilingual support (Hindi 🇮🇳 + English 🇬🇧)
-📋 Provides complete information about:
-  Course eligibility
-  Fee structure & installment options
-  Hostel facilities
-  Training hospitals
-  Scholarships & seat availability
-🔁 Restart option for new conversations
-🎨 Built using Gradio for a clean, no-code web interface
+An interactive **AI-powered chatbot** built using **Gradio** to assist students interested in B.Sc Nursing admissions. This intelligent assistant provides bilingual support (Hindi 🇮🇳 + English 🇬🇧), guiding users through eligibility, fee structure, hostel facilities, and more — all via a clean conversational interface.
 
+---
 
-#🛠️ Tech Stack
-Python 3.9+
-Gradio – For UI and interaction
-RapidFuzz – For fuzzy matching user intents
-State-based logic – Conversation is driven by custom-defined states
-Optional: Ready for deployment on platforms like Hugging Face Spaces, Render, or Localhost
+## 🚀 Features
+
+- ✅ Fuzzy intent matching using `rapidfuzz`
+- 🧠 State-driven conversation flow
+- 💬 Bilingual responses (Hindi + English)
+- 📋 Information on:
+  - Eligibility criteria
+  - Fee details & installment breakdown
+  - Hostel & hospital training facilities
+  - Scholarships & seat count
+- 🔁 Restartable chat
+- 🌐 Gradio-powered no-code frontend
+
+---
+
+## 🛠️ Tech Stack
+
+- **Python 3.9+**
+- [Gradio](https://gradio.app/) – for interactive web UI
+- [RapidFuzz](https://github.com/maxbachmann/RapidFuzz) – for fuzzy logic-based intent detection
 
