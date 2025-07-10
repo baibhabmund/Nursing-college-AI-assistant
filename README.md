@@ -1,7 +1,7 @@
-**🏥 Nursing Admission Chatbot**
+#🏥 Nursing Admission Chatbot
 Nursing Admission Chatbot - An interactive AI-powered Gradio chatbot designed to assist students interested in B.Sc Nursing admissions. The chatbot guides users through the admission process, eligibility criteria, fees, hostel facilities, and more — all in both Hindi and English.
 
-🚀 Features
+#🚀 Features
 ✅ Conversational flow using fuzzy intent detection (rapidfuzz)
 🧠 Intelligent state-based responses
 💬 Bilingual support (Hindi 🇮🇳 + English 🇬🇧)
@@ -15,7 +15,7 @@ Nursing Admission Chatbot - An interactive AI-powered Gradio chatbot designed to
 🎨 Built using Gradio for a clean, no-code web interface
 
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Python 3.9+
 Gradio – For UI and interaction
 RapidFuzz – For fuzzy matching user intents
