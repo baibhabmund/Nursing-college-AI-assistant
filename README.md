@@ -1,1 +1,0 @@
-# Nursing-college-AI-assistant
